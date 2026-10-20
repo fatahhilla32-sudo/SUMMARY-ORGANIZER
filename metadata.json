@@ -1,0 +1,6 @@
+{
+  "name": "Dining Zone - Organizer Sales & Productivity Dashboard",
+  "description": "Executive retail sales, cross-selling analysis, and space productivity report for Dining Zone Organizer (221 m²), with real-time spreadsheet synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
